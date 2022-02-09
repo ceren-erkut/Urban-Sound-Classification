@@ -1,0 +1,500 @@
+[4, 1, 4, 1, 2, 1, 2, 4, 1, 1, 1, 1, 4, 4, 1]
+Prediction of Each Tree
+[2, 5, 0, 2, 2, 2, 1, 1, 3, 5, 2, 1, 5, 5, 2]
+Prediction of Each Tree
+[5, 4, 5, 5, 4, 2, 2, 5, 3, 4, 4, 5, 5, 5, 3]
+Prediction of Each Tree
+[2, 4, 4, 1, 4, 4, 0, 4, 0, 4, 4, 4, 4, 0, 4]
+Prediction of Each Tree
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[2, 3, 2, 2, 0, 2, 0, 5, 2, 4, 5, 5, 2, 2, 2]
+Prediction of Each Tree
+[4, 4, 0, 1, 4, 4, 0, 4, 1, 3, 2, 4, 1, 5, 4]
+Prediction of Each Tree
+[4, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[2, 2, 5, 2, 2, 3, 2, 4, 3, 2, 5, 5, 5, 5, 2]
+Prediction of Each Tree
+[2, 3, 5, 2, 4, 4, 0, 5, 0, 4, 4, 5, 2, 2, 4]
+Prediction of Each Tree
+[2, 2, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 2]
+Prediction of Each Tree
+[5, 4, 5, 5, 3, 4, 5, 5, 5, 3, 3, 4, 3, 3, 2]
+Prediction of Each Tree
+[4, 4, 0, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 4]
+Prediction of Each Tree
+[2, 2, 1, 1, 5, 1, 1, 1, 1, 5, 5, 1, 1, 1, 2]
+Prediction of Each Tree
+[0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[2, 3, 2, 2, 4, 2, 2, 2, 2, 4, 2, 5, 2, 2, 4]
+Prediction of Each Tree
+[2, 3, 5, 2, 2, 3, 5, 3, 2, 5, 1, 5, 3, 3, 2]
+Prediction of Each Tree
+[3, 4, 3, 3, 3, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+Prediction of Each Tree
+[3, 3, 3, 3, 0, 4, 3, 4, 5, 3, 3, 4, 3, 0, 0]
+Prediction of Each Tree
+[1, 2, 1, 2, 1, 2, 1, 1, 1, 5, 2, 1, 5, 5, 1]
+Prediction of Each Tree
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 2]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[1, 1, 4, 1, 1, 1, 1, 4, 4, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[5, 2, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[3, 3, 1, 1, 4, 4, 0, 3, 3, 4, 4, 4, 3, 0, 4]
+Prediction of Each Tree
+[0, 0, 3, 0, 3, 0, 0, 0, 3, 4, 0, 3, 3, 0, 0]
+Prediction of Each Tree
+[3, 1, 5, 3, 5, 5, 3, 4, 0, 2, 2, 1, 3, 3, 0]
+Prediction of Each Tree
+[5, 5, 0, 5, 5, 2, 2, 5, 0, 5, 2, 5, 5, 5, 3]
+Prediction of Each Tree
+[2, 5, 5, 2, 1, 2, 1, 1, 1, 2, 2, 1, 1, 5, 2]
+Prediction of Each Tree
+[2, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Prediction of Each Tree
+[4, 4, 1, 0, 0, 0, 4, 0, 3, 0, 0, 0, 2, 3, 0]
+Prediction of Each Tree
+[3, 0, 0, 0, 3, 0, 0, 0, 5, 0, 0, 0, 3, 3, 0]
+Prediction of Each Tree
+[5, 5, 2, 2, 2, 2, 2, 2, 3, 5, 2, 2, 5, 5, 3]
+Prediction of Each Tree
+[1, 2, 1, 2, 1, 2, 1, 1, 5, 5, 5, 1, 4, 5, 2]
+Prediction of Each Tree
+[2, 2, 1, 2, 2, 2, 1, 1, 1, 5, 2, 1, 5, 5, 2]
+Prediction of Each Tree
+[3, 0, 1, 3, 3, 4, 3, 3, 3, 0, 3, 1, 0, 3, 3]
+Prediction of Each Tree
+[3, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 4]
+Prediction of Each Tree
+[1, 5, 1, 2, 1, 2, 1, 1, 5, 5, 2, 1, 5, 2, 2]
+Prediction of Each Tree
+[2, 5, 1, 2, 1, 2, 1, 1, 5, 5, 2, 1, 5, 5, 2]
+Prediction of Each Tree
+[2, 2, 1, 2, 2, 2, 1, 1, 1, 5, 2, 3, 5, 5, 1]
+Prediction of Each Tree
+[1, 4, 1, 5, 4, 1, 0, 5, 1, 2, 5, 5, 1, 5, 4]
+Prediction of Each Tree
+[1, 1, 5, 5, 5, 5, 1, 5, 5, 5, 1, 5, 5, 5, 1]
+Prediction of Each Tree
+[4, 1, 4, 1, 1, 3, 1, 4, 3, 1, 1, 1, 4, 1, 1]
+Prediction of Each Tree
+[3, 3, 1, 2, 3, 3, 0, 4, 2, 3, 4, 3, 5, 5, 4]
+Prediction of Each Tree
+[2, 2, 1, 2, 2, 2, 1, 1, 1, 5, 2, 3, 2, 5, 1]
+Prediction of Each Tree
+[1, 5, 1, 2, 1, 2, 1, 1, 1, 5, 5, 1, 5, 1, 2]
+Prediction of Each Tree
+[2, 2, 1, 2, 2, 2, 1, 1, 1, 5, 2, 1, 5, 5, 2]
+Prediction of Each Tree
+[5, 4, 3, 2, 3, 3, 3, 0, 3, 3, 3, 5, 0, 3, 3]
+Prediction of Each Tree
+[1, 4, 1, 1, 1, 1, 4, 4, 1, 2, 4, 4, 4, 1, 4]
+Prediction of Each Tree
+[4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[5, 3, 4, 3, 3, 3, 4, 3, 5, 4, 2, 1, 3, 0, 4]
+Prediction of Each Tree
+[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4]
+Prediction of Each Tree
+[3, 5, 5, 3, 1, 5, 3, 3, 5, 5, 2, 1, 3, 5, 3]
+Prediction of Each Tree
+[2, 4, 1, 1, 4, 4, 0, 4, 1, 3, 4, 4, 1, 5, 4]
+Prediction of Each Tree
+[3, 4, 3, 3, 4, 4, 3, 4, 3, 3, 3, 4, 3, 3, 4]
+Prediction of Each Tree
+[2, 2, 0, 2, 2, 2, 2, 2, 3, 2, 2, 2, 2, 2, 2]
+Prediction of Each Tree
+[2, 3, 0, 2, 4, 2, 0, 4, 1, 4, 2, 5, 5, 2, 4]
+Prediction of Each Tree
+[2, 4, 5, 2, 4, 3, 2, 3, 5, 3, 4, 4, 3, 3, 4]
+Prediction of Each Tree
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 2, 2, 2]
+Prediction of Each Tree
+[1, 4, 5, 2, 4, 4, 0, 4, 1, 3, 4, 4, 1, 5, 4]
+Prediction of Each Tree
+[1, 5, 1, 2, 1, 2, 1, 1, 1, 5, 5, 1, 5, 1, 1]
+Prediction of Each Tree
+[3, 4, 5, 3, 3, 4, 4, 4, 4, 4, 4, 2, 4, 0, 3]
+Prediction of Each Tree
+[0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]
+Prediction of Each Tree
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Prediction of Each Tree
+[0, 1, 1, 2, 1, 5, 2, 3, 5, 3, 1, 1, 2, 1, 0]
+Prediction of Each Tree
+[5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+Prediction of Each Tree
+[1, 4, 5, 2, 4, 3, 2, 4, 0, 3, 4, 5, 4, 5, 4]
+Prediction of Each Tree
+[2, 5, 0, 2, 2, 5, 5, 5, 0, 5, 5, 2, 4, 2, 2]
+Prediction of Each Tree
+[3, 3, 1, 2, 3, 4, 0, 4, 3, 3, 4, 2, 5, 5, 4]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 3, 0, 0]
+Prediction of Each Tree
+[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[5, 5, 3, 5, 5, 2, 2, 5, 0, 5, 2, 1, 5, 5, 3]
+Prediction of Each Tree
+[3, 4, 0, 3, 3, 4, 4, 4, 0, 4, 4, 2, 4, 0, 3]
+Prediction of Each Tree
+[1, 1, 5, 1, 1, 3, 1, 4, 5, 1, 1, 1, 3, 1, 1]
+Prediction of Each Tree
+[2, 4, 3, 2, 3, 4, 0, 4, 5, 3, 4, 2, 0, 3, 4]
+Prediction of Each Tree
+[4, 5, 4, 2, 1, 5, 5, 5, 0, 5, 2, 5, 5, 5, 2]
+Prediction of Each Tree
+[1, 1, 1, 1, 1, 1, 5, 1, 1, 1, 1, 3, 1, 1, 1]
+Prediction of Each Tree
+[4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1]
+Prediction of Each Tree
+[2, 4, 4, 2, 4, 3, 0, 3, 0, 4, 4, 4, 4, 0, 4]
+Prediction of Each Tree
+[2, 2, 2, 2, 2, 3, 5, 5, 5, 5, 1, 5, 4, 3, 1]
+Prediction of Each Tree
+[5, 3, 4, 3, 4, 3, 4, 5, 3, 4, 2, 4, 4, 0, 3]
+Prediction of Each Tree
+[0, 1, 5, 2, 1, 5, 1, 3, 5, 3, 1, 1, 2, 1, 0]
+Prediction of Each Tree
+[0, 2, 2, 2, 2, 3, 2, 4, 3, 2, 2, 2, 5, 2, 2]
+Prediction of Each Tree
+[0, 1, 0, 0, 2, 0, 0, 0, 0, 2, 5, 3, 4, 3, 0]
+Prediction of Each Tree
+[3, 0, 1, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 3, 0]
+Prediction of Each Tree
+[3, 5, 5, 3, 5, 3, 3, 4, 5, 1, 1, 1, 3, 3, 3]
+Prediction of Each Tree
+[3, 2, 5, 3, 2, 3, 3, 4, 3, 5, 2, 3, 3, 3, 5]
+Prediction of Each Tree
+[2, 2, 0, 3, 2, 3, 5, 3, 3, 5, 1, 2, 3, 0, 2]
+Prediction of Each Tree
+[3, 4, 5, 3, 4, 4, 4, 3, 0, 4, 4, 4, 4, 0, 4]
+Prediction of Each Tree
+[3, 4, 3, 3, 3, 4, 3, 4, 5, 3, 3, 4, 3, 3, 3]
+Prediction of Each Tree
+[5, 5, 0, 3, 5, 3, 4, 4, 0, 5, 5, 1, 4, 0, 5]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[4, 4, 4, 1, 4, 4, 0, 4, 0, 4, 4, 3, 4, 5, 4]
+Prediction of Each Tree
+[0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[3, 4, 0, 3, 3, 3, 4, 3, 0, 4, 3, 1, 4, 0, 3]
+Prediction of Each Tree
+[2, 3, 1, 2, 3, 2, 0, 4, 1, 4, 5, 3, 5, 5, 4]
+Prediction of Each Tree
+[2, 5, 4, 2, 3, 5, 0, 5, 5, 4, 5, 5, 5, 5, 4]
+Prediction of Each Tree
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[5, 3, 4, 3, 4, 4, 3, 4, 0, 4, 4, 5, 3, 0, 3]
+Prediction of Each Tree
+[5, 5, 5, 2, 5, 2, 2, 2, 3, 5, 2, 1, 5, 5, 5]
+Prediction of Each Tree
+[1, 4, 1, 2, 4, 4, 4, 4, 1, 4, 4, 4, 5, 1, 4]
+Prediction of Each Tree
+[2, 5, 4, 2, 3, 5, 0, 5, 5, 4, 5, 5, 5, 5, 4]
+Prediction of Each Tree
+[2, 0, 0, 0, 0, 0, 3, 0, 2, 0, 0, 0, 4, 3, 0]
+Prediction of Each Tree
+[4, 5, 0, 5, 4, 4, 4, 5, 4, 4, 4, 3, 1, 4, 4]
+Prediction of Each Tree
+[0, 4, 3, 3, 3, 4, 3, 4, 3, 3, 3, 4, 3, 3, 3]
+Prediction of Each Tree
+[2, 4, 1, 2, 3, 4, 0, 4, 5, 3, 4, 4, 5, 4, 4]
+Prediction of Each Tree
+[0, 0, 5, 4, 0, 0, 0, 0, 0, 0, 4, 4, 0, 0, 0]
+Prediction of Each Tree
+[3, 3, 5, 2, 2, 5, 3, 5, 2, 5, 1, 2, 3, 3, 5]
+Prediction of Each Tree
+[5, 3, 5, 5, 3, 2, 5, 5, 3, 4, 2, 2, 5, 5, 3]
+Prediction of Each Tree
+[2, 2, 1, 2, 3, 2, 1, 4, 2, 3, 4, 2, 5, 1, 4]
+Prediction of Each Tree
+[4, 5, 5, 3, 2, 2, 1, 1, 4, 5, 2, 1, 5, 5, 1]
+Prediction of Each Tree
+[4, 0, 1, 0, 4, 4, 0, 0, 4, 0, 5, 0, 5, 1, 5]
+Prediction of Each Tree
+[2, 5, 5, 5, 1, 5, 0, 4, 0, 5, 2, 2, 5, 5, 2]
+Prediction of Each Tree
+[3, 5, 5, 3, 1, 5, 3, 4, 5, 5, 2, 1, 3, 5, 3]
+Prediction of Each Tree
+[1, 1, 1, 1, 4, 4, 0, 1, 1, 1, 1, 3, 1, 1, 1]
+Prediction of Each Tree
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 2]
+Prediction of Each Tree
+[3, 4, 3, 3, 3, 4, 3, 4, 3, 3, 3, 4, 3, 3, 3]
+Prediction of Each Tree
+[3, 4, 3, 3, 3, 4, 3, 4, 3, 3, 3, 2, 0, 3, 3]
+Prediction of Each Tree
+[0, 4, 0, 0, 4, 0, 0, 0, 4, 0, 0, 0, 3, 0, 0]
+Prediction of Each Tree
+[3, 4, 0, 3, 4, 4, 3, 4, 4, 3, 3, 4, 4, 3, 3]
+Prediction of Each Tree
+[2, 4, 5, 1, 4, 4, 0, 4, 4, 4, 4, 5, 4, 0, 4]
+Prediction of Each Tree
+[4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+Prediction of Each Tree
+[2, 2, 5, 2, 2, 3, 5, 5, 5, 5, 2, 5, 2, 0, 1]
+Prediction of Each Tree
+[2, 5, 5, 2, 1, 2, 1, 1, 2, 2, 2, 1, 5, 5, 2]
+Prediction of Each Tree
+[3, 3, 5, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 3, 3]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[2, 5, 1, 2, 1, 2, 1, 1, 1, 5, 2, 1, 5, 5, 2]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[5, 4, 5, 5, 4, 2, 2, 5, 5, 4, 5, 4, 5, 5, 3]
+Prediction of Each Tree
+[2, 5, 2, 2, 1, 2, 5, 3, 0, 5, 5, 1, 2, 5, 2]
+Prediction of Each Tree
+[5, 2, 0, 5, 2, 3, 4, 3, 3, 5, 5, 5, 5, 5, 5]
+Prediction of Each Tree
+[3, 4, 5, 3, 4, 4, 3, 4, 4, 4, 4, 4, 3, 0, 3]
+Prediction of Each Tree
+[1, 1, 1, 1, 4, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[2, 2, 2, 2, 1, 2, 2, 3, 2, 2, 2, 2, 2, 2, 2]
+Prediction of Each Tree
+[3, 5, 5, 3, 5, 5, 3, 4, 3, 2, 2, 1, 3, 3, 0]
+Prediction of Each Tree
+[5, 2, 3, 2, 3, 3, 4, 3, 3, 5, 5, 3, 3, 3, 3]
+Prediction of Each Tree
+[5, 0, 0, 3, 3, 4, 1, 4, 5, 3, 3, 3, 0, 3, 3]
+Prediction of Each Tree
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[2, 2, 2, 2, 4, 2, 2, 2, 2, 4, 2, 2, 2, 2, 2]
+Prediction of Each Tree
+[2, 4, 0, 1, 4, 4, 0, 1, 1, 3, 4, 1, 1, 5, 4]
+Prediction of Each Tree
+[2, 5, 5, 3, 2, 3, 5, 4, 0, 5, 5, 5, 3, 0, 2]
+Prediction of Each Tree
+[4, 0, 5, 0, 4, 0, 0, 0, 5, 0, 0, 0, 0, 3, 0]
+Prediction of Each Tree
+[2, 4, 4, 2, 3, 3, 2, 3, 3, 3, 4, 5, 3, 3, 4]
+Prediction of Each Tree
+[2, 3, 4, 1, 4, 3, 0, 3, 0, 2, 2, 3, 3, 0, 4]
+Prediction of Each Tree
+[1, 2, 5, 2, 1, 3, 5, 4, 2, 2, 2, 3, 4, 0, 1]
+Prediction of Each Tree
+[5, 4, 3, 2, 3, 4, 5, 4, 0, 2, 3, 4, 5, 1, 3]
+Prediction of Each Tree
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[2, 2, 2, 2, 1, 3, 5, 2, 2, 2, 2, 3, 2, 2, 2]
+Prediction of Each Tree
+[3, 4, 3, 3, 3, 3, 3, 3, 5, 3, 3, 4, 4, 3, 3]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[2, 4, 2, 2, 3, 2, 0, 4, 0, 2, 2, 2, 4, 5, 4]
+Prediction of Each Tree
+[2, 4, 5, 3, 3, 4, 4, 5, 0, 4, 4, 3, 3, 0, 3]
+Prediction of Each Tree
+[1, 4, 3, 1, 1, 4, 0, 4, 5, 1, 1, 5, 5, 1, 4]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[4, 3, 4, 1, 4, 4, 4, 4, 1, 3, 4, 3, 1, 4, 4]
+Prediction of Each Tree
+[2, 5, 1, 2, 2, 2, 1, 1, 1, 5, 5, 1, 5, 5, 2]
+Prediction of Each Tree
+[2, 2, 5, 5, 5, 5, 1, 1, 5, 5, 5, 3, 5, 5, 2]
+Prediction of Each Tree
+[1, 4, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 4]
+Prediction of Each Tree
+[3, 1, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2]
+Prediction of Each Tree
+[2, 2, 0, 3, 5, 3, 4, 3, 2, 2, 2, 3, 3, 3, 3]
+Prediction of Each Tree
+[3, 4, 0, 3, 4, 3, 4, 3, 0, 4, 4, 3, 4, 0, 3]
+Prediction of Each Tree
+[4, 4, 1, 1, 4, 4, 0, 4, 4, 3, 4, 4, 1, 4, 4]
+Prediction of Each Tree
+[3, 4, 0, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 3]
+Prediction of Each Tree
+[3, 5, 0, 3, 5, 3, 4, 4, 4, 2, 2, 3, 3, 0, 3]
+Prediction of Each Tree
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 1, 1]
+Prediction of Each Tree
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[4, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[3, 4, 0, 3, 3, 4, 4, 4, 0, 4, 4, 4, 4, 0, 3]
+Prediction of Each Tree
+[3, 4, 3, 3, 3, 4, 3, 3, 5, 3, 3, 4, 3, 3, 3]
+Prediction of Each Tree
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2]
+Prediction of Each Tree
+[4, 4, 4, 1, 4, 4, 4, 4, 5, 3, 4, 4, 4, 4, 4]
+Prediction of Each Tree
+[5, 3, 3, 3, 3, 4, 3, 4, 3, 3, 3, 3, 3, 3, 3]
+Prediction of Each Tree
+[3, 2, 0, 2, 2, 2, 1, 1, 1, 5, 2, 1, 5, 2, 2]
+Prediction of Each Tree
+[2, 4, 0, 2, 3, 3, 0, 4, 4, 4, 4, 4, 4, 0, 4]
+Prediction of Each Tree
+[2, 3, 4, 2, 0, 5, 0, 5, 0, 4, 4, 5, 0, 0, 0]
+Prediction of Each Tree
+[1, 4, 5, 2, 4, 3, 0, 4, 5, 3, 3, 5, 3, 3, 4]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[3, 5, 3, 2, 3, 3, 0, 3, 3, 3, 4, 3, 4, 0, 4]
+Prediction of Each Tree
+[3, 4, 4, 3, 4, 3, 3, 3, 0, 3, 3, 4, 3, 0, 3]
+Prediction of Each Tree
+[4, 4, 0, 5, 4, 4, 4, 5, 4, 4, 4, 4, 1, 5, 4]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[2, 5, 0, 2, 1, 3, 1, 5, 4, 5, 2, 1, 4, 4, 2]
+Prediction of Each Tree
+[2, 2, 1, 2, 1, 2, 1, 1, 1, 5, 2, 2, 5, 2, 2]
+Prediction of Each Tree
+[2, 5, 5, 2, 1, 2, 1, 1, 1, 2, 2, 1, 5, 5, 2]
+Prediction of Each Tree
+[3, 2, 5, 3, 5, 3, 3, 4, 3, 5, 5, 2, 3, 3, 3]
+Prediction of Each Tree
+[2, 4, 1, 1, 4, 1, 0, 1, 1, 3, 4, 5, 1, 5, 4]
+Prediction of Each Tree
+[2, 4, 1, 2, 4, 4, 1, 4, 1, 3, 4, 4, 1, 1, 4]
+Prediction of Each Tree
+[4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[4, 4, 4, 1, 4, 4, 4, 4, 1, 4, 2, 4, 4, 1, 4]
+Prediction of Each Tree
+[2, 4, 1, 1, 4, 4, 0, 4, 1, 3, 4, 4, 1, 5, 4]
+Prediction of Each Tree
+[5, 2, 4, 5, 2, 2, 2, 5, 3, 5, 5, 3, 5, 5, 0]
+Prediction of Each Tree
+[3, 3, 0, 2, 3, 4, 0, 4, 0, 3, 4, 2, 5, 5, 4]
+Prediction of Each Tree
+[3, 2, 3, 2, 3, 3, 3, 3, 3, 5, 5, 3, 3, 3, 3]
+Prediction of Each Tree
+[2, 1, 0, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 5, 2]
+Prediction of Each Tree
+[5, 5, 5, 2, 2, 5, 5, 4, 5, 5, 2, 1, 3, 5, 3]
+Prediction of Each Tree
+[3, 2, 5, 3, 2, 3, 3, 3, 3, 5, 5, 5, 4, 3, 3]
+Prediction of Each Tree
+[0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]
+Prediction of Each Tree
+[2, 2, 5, 2, 2, 2, 2, 5, 2, 2, 5, 2, 2, 2, 2]
+Prediction of Each Tree
+[0, 2, 5, 2, 1, 2, 2, 2, 1, 2, 2, 2, 5, 5, 2]
+Prediction of Each Tree
+[3, 4, 5, 3, 3, 3, 3, 0, 3, 3, 3, 5, 3, 3, 3]
+Prediction of Each Tree
+[2, 5, 5, 2, 1, 2, 1, 1, 4, 2, 5, 1, 5, 5, 2]
+Prediction of Each Tree
+[5, 4, 5, 2, 3, 3, 2, 3, 5, 3, 3, 2, 0, 3, 2]
+Prediction of Each Tree
+[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[2, 2, 5, 2, 2, 3, 2, 4, 5, 5, 2, 2, 3, 5, 2]
+Prediction of Each Tree
+[5, 5, 0, 3, 5, 3, 4, 3, 3, 5, 5, 5, 3, 0, 3]
+Prediction of Each Tree
+[4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1]
+Prediction of Each Tree
+[3, 3, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+Prediction of Each Tree
+[2, 5, 1, 2, 1, 2, 1, 1, 5, 2, 2, 1, 5, 5, 2]
+Prediction of Each Tree
+[4, 4, 0, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+Prediction of Each Tree
+[0, 4, 2, 5, 3, 2, 5, 5, 0, 4, 4, 4, 2, 2, 2]
+Prediction of Each Tree
+[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[2, 4, 5, 3, 0, 4, 0, 3, 0, 3, 3, 5, 0, 2, 2]
+Prediction of Each Tree
+[2, 5, 2, 5, 1, 2, 5, 3, 5, 5, 5, 1, 5, 5, 2]
+Prediction of Each Tree
+[3, 4, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0]
+Prediction of Each Tree
+[4, 4, 1, 2, 3, 3, 0, 3, 3, 3, 4, 4, 0, 3, 4]
+Prediction of Each Tree
+[1, 5, 5, 1, 1, 1, 1, 1, 1, 5, 2, 1, 5, 1, 1]
+Prediction of Each Tree
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Prediction of Each Tree
+[2, 4, 0, 2, 4, 4, 0, 4, 3, 4, 5, 4, 3, 0, 4]
+Prediction of Each Tree
+[2, 2, 5, 2, 2, 3, 5, 5, 5, 5, 2, 5, 2, 0, 1]
+Prediction of Each Tree
+[2, 3, 2, 2, 4, 2, 0, 4, 1, 3, 4, 3, 5, 5, 4]
+Prediction of Each Tree
+[5, 2, 5, 2, 5, 3, 3, 4, 5, 5, 2, 3, 4, 3, 5]
+Prediction of Each Tree
+[2, 2, 1, 2, 2, 1, 1, 1, 1, 5, 2, 3, 5, 5, 1]
+Prediction of Each Tree
+[5, 4, 5, 2, 3, 3, 3, 3, 5, 3, 3, 2, 3, 3, 2]
+Prediction of Each Tree
+[5, 5, 5, 2, 1, 5, 5, 4, 5, 5, 2, 1, 3, 3, 3]
+Actual:  [0, 4, 1, 2, 0, 5, 5, 4, 4, 2, 0, 1, 3, 1, 3, 1, 1, 3, 5, 4, 3, 1, 5, 3, 5, 1, 4, 5, 5, 0, 5, 3, 3, 5, 3, 1, 1, 3, 5, 0, 1, 4, 5, 5, 3, 4, 1, 2, 5, 4, 0, 1, 5, 4, 5, 0, 3, 2, 0, 0, 1, 1, 2, 0, 4, 2, 4, 1, 3, 4, 0, 5, 4, 0, 3, 3, 2, 2, 3, 5, 3, 5, 5, 4, 0, 5, 0, 3, 2, 4, 0, 1, 5, 5, 2, 2, 2, 3, 2, 3, 4, 2, 2, 4, 0, 4, 5, 4, 2, 0, 5, 5, 4, 3, 2, 1, 5, 2, 0, 2, 5, 1, 2, 0, 3, 4, 1, 0, 0, 4, 1, 4, 0, 1, 1, 1, 3, 2, 1, 1, 4, 1, 5, 5, 5, 0, 1, 2, 0, 2, 3, 4, 1, 4, 0, 1, 5, 3, 4, 3, 4, 4, 0, 5, 4, 3, 1, 0, 1, 2, 2, 1, 5, 0, 4, 2, 1, 2, 0, 1, 4, 3, 1, 1, 5, 4, 3, 4, 1, 4, 4, 4, 4, 5, 1, 1, 0, 0, 1, 0, 5, 1, 5, 2, 4, 2, 5, 4, 1, 2, 4, 1, 2, 0, 2, 5, 4, 1, 0, 2, 5, 3, 0, 1, 2, 0, 1, 0, 5, 0, 4, 3, 0, 5, 2, 2, 0, 0, 3, 5, 2, 0, 4, 1, 5, 2, 5, 5, 1, 3, 2, 1, 2, 3, 4, 1, 4, 3, 1, 1, 4, 2, 2, 3, 2, 5, 1, 0, 0, 2, 2, 5, 5, 0, 3, 0, 1, 5, 3, 1, 3, 5, 1, 1, 4, 5, 4, 2, 3, 0, 3, 3, 2, 0, 4, 4, 5, 0, 4, 0, 3, 2, 5, 1, 5, 5, 3, 5, 0, 5, 3, 4, 0, 0, 4, 2, 1, 4, 2, 1, 1, 2, 3, 3, 4, 4, 4, 1, 3, 0, 2, 3, 0, 5, 0, 5, 5, 3, 3, 1, 2, 3, 3, 3, 1, 2, 1, 5, 0, 3, 4, 5, 3, 1, 2, 3, 0, 2, 0, 1, 0, 4, 1, 5, 1, 1, 2, 4, 4, 4, 3, 1, 1, 0, 3, 3, 1, 4, 3, 2, 4, 4, 5, 0, 0, 3, 4, 5, 0, 1, 2, 2, 4, 1, 1, 0, 4, 4, 4, 0, 3, 1, 5, 3, 0, 2, 2, 3, 5, 2, 1, 2, 4, 1, 3, 5, 4, 5, 1, 4, 5, 3, 3, 5, 1, 4, 0, 4, 5, 2, 2, 5]
+Predicted_values: 
+[0, 3, 1, 2, 4, 5, 4, 0, 4, 2, 3, 1, 0, 1, 3, 1, 1, 3, 5, 1, 3, 5, 5, 1, 5, 1, 4, 5, 1, 0, 2, 3, 3, 2, 3, 1, 5, 3, 3, 0, 1, 3, 5, 5, 3, 4, 3, 2, 2, 3, 0, 1, 1, 2, 5, 0, 4, 2, 3, 0, 1, 1, 2, 0, 4, 5, 4, 4, 3, 4, 0, 5, 4, 4, 3, 0, 2, 2, 4, 4, 3, 2, 5, 4, 0, 1, 0, 1, 2, 3, 0, 1, 5, 5, 4, 2, 2, 3, 2, 3, 3, 2, 2, 4, 0, 4, 3, 4, 2, 0, 5, 5, 3, 2, 2, 3, 3, 2, 0, 1, 4, 1, 2, 0, 3, 5, 1, 4, 0, 4, 1, 3, 0, 1, 1, 1, 3, 2, 1, 1, 3, 1, 5, 5, 2, 3, 3, 2, 0, 5, 3, 4, 1, 3, 2, 4, 5, 3, 3, 3, 2, 4, 0, 1, 4, 0, 1, 4, 1, 2, 2, 1, 2, 0, 4, 5, 1, 2, 3, 1, 4, 3, 1, 4, 5, 4, 3, 3, 3, 3, 4, 3, 5, 3, 1, 1, 0, 0, 4, 3, 5, 5, 1, 2, 1, 2, 5, 4, 1, 2, 4, 1, 2, 4, 2, 5, 4, 1, 0, 2, 2, 3, 3, 1, 2, 0, 1, 0, 5, 0, 4, 0, 3, 5, 1, 2, 0, 0, 2, 1, 2, 3, 4, 1, 1, 2, 1, 5, 1, 3, 2, 1, 2, 3, 1, 1, 3, 3, 3, 4, 3, 2, 2, 3, 2, 4, 1, 4, 0, 2, 1, 5, 4, 2, 3, 0, 1, 5, 4, 1, 4, 5, 1, 1, 4, 2, 4, 1, 2, 0, 0, 3, 3, 2, 4, 3, 5, 0, 4, 0, 3, 2, 5, 1, 4, 5, 4, 5, 0, 4, 3, 4, 0, 3, 5, 2, 5, 0, 5, 5, 1, 2, 3, 3, 0, 3, 4, 1, 3, 2, 2, 3, 0, 1, 0, 5, 2, 5, 4, 1, 2, 3, 3, 3, 1, 2, 1, 5, 0, 3, 3, 2, 3, 1, 2, 3, 0, 2, 3, 1, 0, 4, 1, 5, 1, 1, 3, 3, 4, 4, 3, 1, 1, 0, 4, 3, 1, 4, 3, 2, 4, 0, 3, 0, 0, 3, 3, 4, 0, 2, 2, 2, 3, 1, 4, 0, 4, 4, 5, 3, 3, 1, 5, 3, 0, 2, 2, 3, 2, 3, 1, 2, 3, 1, 3, 2, 4, 2, 1, 0, 5, 0, 3, 1, 1, 4, 2, 2, 5, 1, 3, 5]
+Fold Number:
+10
+[[416  15  54 135  62  38]
+ [  0 638  22  13  23  24]
+ [  3  52 536  60  24  45]
+ [ 41  45  62 430  72  70]
+ [ 34  34  34 190 395  33]
+ [  9 104  63  80  98 366]]
+0.5777777777777777
+0.827037773359841
+0.8861111111111111
+0.7184684684684685
+0.7444444444444445
+0.695201037613489
+0.5972222222222222
+0.473568281938326
+0.5486111111111112
+0.586053412462908
+0.5083333333333333
+0.6354166666666666
+#Trees: 15
+Correctly Classified:386.25
+F1 Score: 0.6420986800209447
+Accuracy: 88.125
+Elapsed time:  22259.253407001495
+
+
+
+Figures now render in the Plots pane by default. To make them also appear inline in the Console, uncheck "Mute Inline Plotting" under the Plots pane options menu. 
+
+
+ f1
+[0.64209868 0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.        ]
+
+Correctly Classified
+[64.375  0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+  0.     0.     0.     0.     0.     0.     0.     0.     0.     0.   ]
